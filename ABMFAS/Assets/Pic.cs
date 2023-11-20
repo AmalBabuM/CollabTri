@@ -7,12 +7,8 @@ public class Pic : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        Debug.Log("Hello Fasi"); 
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+   
 }
